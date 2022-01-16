@@ -8,7 +8,7 @@ UI to Encipher / Decipher a message with the simple encryption algorithm.
 
  **Working:**
 
-<img src="images\working_UI.png" alt="working_UI" style="zoom:67%;" />
+<img src="images\madegif.gif" alt="working_UI" style="zoom:100%;" />
 
 
 
