@@ -26,6 +26,7 @@ Here I’ve considered 5 different Plain Texts with Hamming distances(HD) 1,2,3,
 
 ------
 <br>
+
 **2) TEST 2:  Avalanche Effect in DES ( Change in Key )**
 
 Here I’ve considered 5 different Keys with Hamming distances(HD) as 1,2,3,4 and 5 respectively and one constant Plain Text
