@@ -1,4 +1,4 @@
-											# NETWORK SECURITY
+# NETWORK SECURITY
 
 ### *Practical Assignment 2 (PA2)*
 
@@ -22,7 +22,7 @@ text_list = ["±0111100", "ñ0111100", "60111100", "Á0111100", "10É11100"]
 
 ###### Point plot of Hamming distance vs No. of Rounds
 
-<img src='images/test1'>
+<img src="images\test1">
 
 ------
 
@@ -36,7 +36,7 @@ key_list = ["p0011100" ,"°0011100" ,"°0451±00" ,"d0451±00" ,"µút11100"]
 
 ###### Point plot of Hamming distance vs No. of Rounds
 
-<img src='images/test2'>
+<img src="images\test2">
 
 ------
 
