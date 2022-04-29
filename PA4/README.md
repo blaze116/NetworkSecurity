@@ -10,8 +10,7 @@ Linear Congruential Generator is most common and oldest algorithm for generating
 Where
 
 ```
-    Xn+1 = (aXn + c) mod m
-    where X is the sequence of pseudo-random values
+    X is the sequence of pseudo-random values
     m, 0 < m  - modulus 
     a, 0 < a < m  - multiplier
     c, 0 ≤ c < m  - increment
